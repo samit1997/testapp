@@ -1,3 +1,0 @@
-# VaultShare — private application, block all crawlers
-User-agent: *
-Disallow: /
